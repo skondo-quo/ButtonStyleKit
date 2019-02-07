@@ -24,6 +24,7 @@
 		36DAF3191D37CA530056A56F /* ButtonStyleBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36DAF3181D37CA530056A56F /* ButtonStyleBuilder.swift */; };
 		36E99BC71D46149A001968D8 /* ButtonStyleSelectableBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E99BC61D46149A001968D8 /* ButtonStyleSelectableBase.swift */; };
 		36E99BC91D461526001968D8 /* ButtonStyleStandardBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E99BC81D461526001968D8 /* ButtonStyleStandardBase.swift */; };
+		43E68890220BF4320045ACC3 /* DummyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E6888F220BF4320045ACC3 /* DummyViewController.swift */; };
 		A9AC8F8C2154A170002675B9 /* SampleButtonShadowStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9AC8F8B2154A170002675B9 /* SampleButtonShadowStyle.swift */; };
 /* End PBXBuildFile section */
 
@@ -71,6 +72,7 @@
 		36DAF3181D37CA530056A56F /* ButtonStyleBuilder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonStyleBuilder.swift; sourceTree = "<group>"; };
 		36E99BC61D46149A001968D8 /* ButtonStyleSelectableBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonStyleSelectableBase.swift; sourceTree = "<group>"; };
 		36E99BC81D461526001968D8 /* ButtonStyleStandardBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonStyleStandardBase.swift; sourceTree = "<group>"; };
+		43E6888F220BF4320045ACC3 /* DummyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummyViewController.swift; sourceTree = "<group>"; };
 		A9AC8F8B2154A170002675B9 /* SampleButtonShadowStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleButtonShadowStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -117,6 +119,7 @@
 				36B537E61D3344520037CA02 /* ButtonStyle */,
 				36B537C01D33409B0037CA02 /* AppDelegate.swift */,
 				36B537C21D33409B0037CA02 /* ViewController.swift */,
+				43E6888F220BF4320045ACC3 /* DummyViewController.swift */,
 				36B537C41D33409B0037CA02 /* Main.storyboard */,
 				36B537C71D33409B0037CA02 /* Assets.xcassets */,
 				36B537C91D33409B0037CA02 /* LaunchScreen.storyboard */,
@@ -280,6 +283,7 @@
 				36B8B8021D336316003A8172 /* SampleButtonCheckboxStyle.swift in Sources */,
 				36B537C11D33409B0037CA02 /* AppDelegate.swift in Sources */,
 				36AD61001D52609900752599 /* SampleButtonRadioStyle.swift in Sources */,
+				43E68890220BF4320045ACC3 /* DummyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
